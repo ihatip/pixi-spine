@@ -1,3 +1,9 @@
+This is the fork of the repo https://github.com/pixijs/spine
+
+Since the typings of the library matches with PixiJS v6 it was hard to use it with PixiJS v5, I just updated dependencies of the packages to pixi.js-legacy 5.3.8 and build. Rest is the same.
+
+--------------------------------------------------------------
+
 # pixi-spine
 
 Spine 3.7, 3.8, 4.0 implementation for PixiJS v5 & v6. 
